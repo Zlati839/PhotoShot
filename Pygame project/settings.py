@@ -1,5 +1,5 @@
-Width = 900
-Height = 600
+Width = 960
+Height = 630
 FPS = 60
 StartX = 100
 StartY = 100
