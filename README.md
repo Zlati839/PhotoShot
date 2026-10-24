@@ -19,3 +19,4 @@ For now there a red 3 levels the 1st one being something like a tutorial level
 
 ## How to play 
 Take pictures to get yourself torugh the level and reach the flags :D
+And to play it just go on my itch io page
